@@ -1,0 +1,22 @@
+{
+    "details":[
+        {
+            "card":{
+                "name":"praveen kumar",
+                "email":"praveen123@gmail.com",
+                "mobile":"9010102030",
+                "description":"Student"
+            },
+            "career":"I want to be a Developer"
+        },
+        {
+            "card":{
+                "name":"Dhoni MSD",
+                "email":"dhoni.praveen159@gmail.com",
+                "mobile":"9010106789",
+                "description":"Trainer"
+            },
+            "career":"I want to be a Trainer"
+        }
+    ]
+}
